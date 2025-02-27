@@ -1,2 +1,2 @@
-# My-First-Pro
-My first pro on Github
+# About my first pro on Github
+# This is a basic form i would learn to develop
